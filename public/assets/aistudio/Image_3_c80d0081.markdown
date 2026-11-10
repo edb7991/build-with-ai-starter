@@ -1,0 +1,246 @@
+---
+name: Apex Market Terminal
+colors:
+  surface: '#faf9ff'
+  surface-dim: '#d7d9e6'
+  surface-bright: '#faf9ff'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f1f3ff'
+  surface-container: '#ebedfa'
+  surface-container-high: '#e5e8f4'
+  surface-container-highest: '#e0e2ee'
+  on-surface: '#181b24'
+  on-surface-variant: '#434656'
+  inverse-surface: '#2d303a'
+  inverse-on-surface: '#eef0fd'
+  outline: '#737687'
+  outline-variant: '#c3c5d8'
+  surface-tint: '#004ee8'
+  primary: '#0049db'
+  on-primary: '#ffffff'
+  primary-container: '#2962ff'
+  on-primary-container: '#f7f5ff'
+  inverse-primary: '#b6c4ff'
+  secondary: '#5a5e6b'
+  on-secondary: '#ffffff'
+  secondary-container: '#dfe2f2'
+  on-secondary-container: '#606471'
+  tertiary: '#006554'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#00806b'
+  on-tertiary-container: '#d9fff2'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#dce1ff'
+  primary-fixed-dim: '#b6c4ff'
+  on-primary-fixed: '#001550'
+  on-primary-fixed-variant: '#003ab3'
+  secondary-fixed: '#dfe2f2'
+  secondary-fixed-dim: '#c3c6d5'
+  on-secondary-fixed: '#171b26'
+  on-secondary-fixed-variant: '#434653'
+  tertiary-fixed: '#84f7db'
+  tertiary-fixed-dim: '#66dabf'
+  on-tertiary-fixed: '#00201a'
+  on-tertiary-fixed-variant: '#005143'
+  background: '#faf9ff'
+  on-background: '#181b24'
+  surface-variant: '#e0e2ee'
+  bullish-green: '#089981'
+  bullish-green-subtle: '#E6F5F2'
+  bearish-red: '#F23645'
+  bearish-red-subtle: '#FDEBED'
+  border-subtle: '#E0E3EB'
+  surface-card: '#FFFFFF'
+  surface-canvas: '#F8F9FD'
+  surface-muted: '#F0F3FA'
+typography:
+  display:
+    fontFamily: Inter
+    fontSize: 44px
+    fontWeight: '800'
+    lineHeight: 52px
+    letterSpacing: -0.03em
+  display-mobile:
+    fontFamily: Inter
+    fontSize: 32px
+    fontWeight: '700'
+    lineHeight: 40px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Inter
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Inter
+    fontSize: 22px
+    fontWeight: '700'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Inter
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 16px
+  data-metric:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: -0.01em
+  data-metric-lg:
+    fontFamily: Inter
+    fontSize: 24px
+    fontWeight: '700'
+    lineHeight: 32px
+    letterSpacing: -0.02em
+  label-md:
+    fontFamily: Inter
+    fontSize: 13px
+    fontWeight: '500'
+    lineHeight: 18px
+  label-sm:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.04em
+rounded:
+  sm: 0.5rem
+  DEFAULT: 1rem
+  md: 1.5rem
+  lg: 2rem
+  xl: 3rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-lg: 1.5rem
+  margin: 1rem
+  margin-md: 1.5rem
+  margin-lg: 2.5rem
+  space-2xs: 0.125rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 0.75rem
+  space-lg: 1rem
+  space-xl: 1.5rem
+  space-2xl: 2rem
+  space-3xl: 3rem
+---
+
+## Brand & Style
+
+This design system delivers a hyper-modern, analytical fintech interface engineered for traders, institutional analysts, and retail investors who require real-time market comprehension. The visual ethos combines crisp Scandinavian minimalism with the dense utility of high-frequency trading terminals.
+
+The aesthetic philosophy is defined by:
+- **Utilitarian Clarity**: Zero-friction data visualization where negative space is calibrated to emphasize metrics, delta changes, and hierarchical market depth.
+- **Instrument-Grade Precision**: Razor-thin structural borders (`#E0E3EB`), monospaced alignment for numerical values, and micro-elevation cues replace heavy gradients and ornamental styling.
+- **Immediate Chromatic Semantics**: Restrained neutral canvases guarantee that market movementsâ€”bullish jade emeralds and bearish scarlet redp %ÛÛ[][šXØ]HšXÙHXİ[Ûˆ[œİ[HÚ]İ]^YH˜]YİYH\š[™È^[™Y˜Y[™ÈÙ\ÜÚ[ÛœË‚‚ˆÈÈÛÛÜœÂ‚•H[]H\È[™Y\›İ[™HÛÜ™Hš[˜[˜ÚX[›YHÌMŒ‘‘˜\ÈH[\˜Xİ]™HXØÙ[[˜ÚÜ™YHÌLÌMÌŒ˜\ÈHYÚXÛÛ˜\İ[šÈÛÛÜˆ›Üˆ]]Üš]]]™H\ÙÜ˜\H[™š[X\HÛÛ›ÛË‚‚ˆÈÈÈÙ[X[XÈ\™›Ü›X[˜ÙH[\Â‹H
+Š[\Ú[İ™[Y[ÊŠˆÌNNX\È™\Ù\™YİšXİH›ÜˆÜÚ]]™HZY[ËšXÙHØZ[œË[™\Ø\™[ÛY[[KˆZ\™YÚ]ÑM‘QŒ˜›ÜˆÛÙYÈ˜XÚÙÜ›İ[™Ë‚‹H
+Š™X\š\Ú[İ™[Y[ÊŠˆÑŒŒÍXÚYÛšYšY\È›ÜËÜÜÙ\Ë[™™YØ]]™H[KˆZ\™YÚ]Ñ‘P‘Q›Üˆ˜YÙH˜XÚÙÜ›İ[™Ë‚‹H
+Š“™]]˜[ÈİXİ\˜[]šY\œÊŠˆÑLLÑP˜\ÈHØ[›ÛšXØ[Z\›[™H›Ü™\ˆÛÛÜˆÙ\\˜][™È]HÜšYËX›HÙ[Ë[™Ø\™ÛÛZ[™\œËˆ™]™\ˆ\ÙH\™H›XÚÈİ][™\Ë‚‹H
+Š’[\˜Xİ]™Hİ]\ÊŠˆ]ÛœÈ[™Xİ]™HXœÈ]™\˜YÙHÌMŒ‘‘˜Ú]İ™\ˆ˜[œÚ][ÛœÈÚY[™ÈÈÌQMLÑMX‚‚ˆÈÈ\ÙÜ˜\B‚•H\ÚYÛˆŞ\İ[HYÜÈ
+Š’[\ŠŠˆXÜ›ÜÜÈ[RH^Y\œÈ›Üˆ]È\\‹[YÚX›HÙ[ÛY]šXÈÛÛœİXİ[Û‹[šY›Ü›H]\™›Ü›\Ë[™^[œÚ]™HÜ[•\H™X]\™\Ë‚‚‹H
+Š•X[\ˆšYİ\™\ÊŠˆ[š[˜[˜ÚX[Y]šXÜËšYØ\ÚÈšXÙ\Ë\˜Ù[YÙH˜\šX][ÛœË[™X›HÛÛ[[œÈ]\İ\ÙH›ÛY™X]\™K\Ù][™ÜÎˆ[HˆXÈİX\˜[YHXœÛÛ]H™\XØ[ÛÛ[[ˆ[YÛ›Y[XÜ›ÜÜÈÚ[™Ú[™ÈšYİ\™\Ë‚‹H
+Š“ZXÜ›ËSX™[ÊŠˆXÚÙ\ˆÛÙ\È
+K™Ë‹ÔPTTÑTX
+H\HX™[\ÛXÚ]\\˜Ø\ÙH˜[œÙ›Ü›\È[™ÛYÚ]\ˆÜXÚ[™È
+Œ[X
+HÈ\İX›\Úš\İX[\İ[˜İ[ÛˆYØZ[œİZ[ˆÛÛ\[H˜[Y\Ë‚‹H
+Š”ØØ[HY\˜\˜ÚJŠˆXY[™\È[\\Ú^™HÛX[‹YÚ˜XÚÚ[™È
+LŒ™[XÈLŒÙ[X
+HÈ[]™\ˆ[Ù\›‹ÛÛ\XİY]ÜšX[İ™[™İÚ]İ]ÛÛœİ[Z[™È^Ù\ÜÚ]™HšY]ÜÜ™X[\İ]K‚‚ˆÈÈ^[İ]	ˆÜXÚ[™Â‚H™\ÜÛœÚ]™HL‹XÛÛ[[ˆ^[İ]ÜšYXØÛÛ[[Ù]\È]KZX]Hš[˜[˜ÚX[^[İ]ÈÚ]™\›ÈØ\İYÜš^›Û[ÜXÙK‚‚ˆÈÈÈœ™XZÜÚ[È	ˆØ[˜\È›İ[™Â‹H
+Š‘\ÚİÜ
+HL
+JŠˆL‹XÛÛ[[ˆÜšYX^Ø[˜\ÈÛÛZ[™\ˆÙˆMÙ[\™YX\™Ú[‹[Ø
+‹\™[JKİ]\‹[Ø
+K\™[JK‚‹H
+Š•X›]
+ÍHLÎ\
+JŠˆXÛÛ[[ˆÜšYX\™Ú[‹[Y
+K\™[JKİ]\˜
+\™[JKˆ[œÙHÜ]\[™\ÈÛÛ\ÙH[È™\XØ[HİXÚÙYY]šXÈÛÛZ[™\œË‚‹H
+Š“[Øš[H
+Í
+JŠˆXÛÛ[[ˆÜšYX\™Ú[˜
+\™[JKİ]\˜
+Í\™[JKˆ]HX›\ÈÛÛ™\ÈÜš^›Û[ØÜ›Û[™Èİ\™˜XÙ\ÈÜˆÛÛœÛÛY]Yİ[[X\HØ\™Ë‚‚ˆÈÈÈ[œÚ]Hš]\Â‹H
+Š‘]HX›\ÊŠˆÛÛ\XİY[™ÈÙˆÜXÙK\ÛX™\XØ[
+
+H[™ÜXÙK[YÜš^›Û[
+Lœ
+H\ˆ›İÈÈİ\İZ[ˆYÚ]H[œÚ]K‚‹H
+ŠØ\™ÛÛZ[™\œÊŠˆ[œÙ]Y[™È\Ù\ÈÜXÙK[Ø
+Mœ
+HÜˆÜXÙK^
+
+H›Üˆ[˜[]XØ[İ[[X\HÚYÙ]Ë‚‚ˆÈÈ[]˜][Ûˆ	ˆ\‚•š\İX[Y\˜\˜ÚH\ÈXZ[Z[™Yš[X\š[H›İYÚ
+Š›İËXÛÛ˜\İİ][™\ÊŠˆ[™İXHÛ˜[İXÚÚ[™È˜]\ˆ[ˆX]H][K[^Y\™YÚYİÜË‚‚‹H
+Š˜\Ù[[™Hİ\™˜XÙJŠˆ˜XÚÙÜ›İ[™Ø[˜\È\ÈÙ]ÈÑQ‘Üˆ\™HÑ‘‘‘‘‘˜‚‹H
+ŠØ\™	ˆÛÛZ[™\ˆ^Y\š[™ÊŠˆ[[Y[ÈÚ]\™XİHÛˆHØ[˜\È›İ[™YHÜš\Ü\›Ü™\œÈ\Ú[™ÈÑLLÑP˜ˆ›ÈÚYİÈ\È\YY[™\ˆ™\İİ]\Ë‚‹H
+Š’[\˜Xİ]™H›Ø]È›ÜİÛœÈÈÜİ™\œÊŠˆ›[İ]Y[\ËXÚÙ\ˆÛÛ\Ë[™ÙX\˜Ú™\İ[È\HH˜^›Ü‹\Ú\œ[XšY[ÚYİÎ‚ˆ›Ş\ÚYİÎˆMœ™Ø˜JNKŒËÍŒ
+K\œ™Ø˜JNKŒËÍŒ
+X‚‹H
+Š’İ™\ˆZXÜ›ËQ\
+Šˆ[\˜Xİ]™HY]šXÈ[\È[]˜]HšXHHİXH›Ü™\ˆÚYÈÌMŒ‘‘˜[Û™ÜÚYH›Ş\ÚYİÎˆœ™Ø˜JKNMKŒ
+X‚‚ˆÈÈÚ\\Â‚•H\ÚYÛˆŞ\İ[H[˜ÛÜœÜ˜]\È
+Šœ[\Ú\YÛÛ›ÛÊŠˆ
+›İ[™Y™\ÜÎˆØ
+H›Üˆ˜]šYØ][ÛˆØ\İ[\ËXÚÙ\ˆ˜YÙ\Ë[™ÙX\˜Ú˜\œË˜[[˜ÙYYØZ[œİİXİ\™YÛÙH›İ[™YØ\™ÛÛZ[™\œË‚‚‹H
+Š”[È	ˆ˜YÙ\ÊŠˆXˆØ\İ[\ËXÚÙ\ˆ˜YÙ\ËØ]YÛÜHYÜË[™ÙX\˜Ú[œ]È[\[Y[[H›İ[™Y˜YZH
+›İ[™YY[ÈNNN\
+HÈÜ™X]HXİ[KÛXÚØX›HY™›Ü™[˜Ù\Ë‚‹H
+ŠØ\™È	ˆ]H[Ù[\ÊŠˆYÚ[]™[[Ù[\È[™Ú\[™[È\ÙHHØ[Xœ˜]YLœ
+›İ[™Y[Ø\]Z]˜[[
+HÜˆMœ
+›İ[™Y^\]Z]˜[[
+H˜Y]\ÈÈXZ[Z[ˆ[ˆ\›ØXÚX›H[Ù\›ˆÛÙØ\™HÚ[İY]K‚‹H
+Š•X›HÙ[È	ˆ[œ]›Ü›HšY[ÊŠˆ›Ü›H[œ]È[™Ù[Xİ›ÜİÛœÈXZ[Z[ˆ[ˆ˜Y]\È›ÜˆÛÛ\Xİ][]K‚‚ˆÈÈÛÛ\Û™[Â‚ˆÈÈÈÛØ˜[ÙX\˜Ú	ˆÚÜİ][œ]‹H
+ŠÛÛZ[™\ŠŠˆ[H›İ[™Y[[œ]ZYÚÎ˜XÚÙÜ›İ[™ÑŒŒÑX›Ü™\ˆ\ÛÛY˜[œÜ\™[ˆÛˆ›Øİ\Îˆ˜XÚÙÜ›İ[™Ñ‘‘‘‘‘˜›Ü™\ˆ\ÛÛYÌMŒ‘‘˜›Ş\ÚYİÈÜ™Ø˜JKNMKŒMJX‚‹H
+Š’XÛÛŠŠˆYX[YÛ™YÙX\˜ÚÛ\ÜÈXÛÛˆ[ˆÍÎĞ˜‚‹H
+Š”ÚÜİ]˜YÙJŠˆšYÚX[YÛ™Y[YÈÚ]^İ›
+ÒØÜˆ8£&Ø›ÛX™[\ÛX^ÛÛÜˆÍÎĞ˜˜XÚÙÜ›İ[™ÑLLÑP˜Y[™Èœœ›Ü™\‹\˜Y]\È‚‚ˆÈÈÈXÚÙ\ˆ[È	ˆ˜YÙ\Â‹H
+Š’[™^Ú\˜ÛH˜YÙ\ÊŠˆÍœÚ\˜İ[\ˆ]˜]\ˆÚ]ÛÛYš[
+K™Ë‹ÑÌ‘Œ‘˜›ÜˆÉ”LÜˆÌMŒ‘‘˜›ÜˆXÚ
+KÛÛZ[š[™È›ÛÚ]H[™^X˜œ™]šX][ÛœË‚‹H
+Š•XÚÙ\ˆŞ[X›Û[
+ŠˆY˜XÙ[ÙXÛÛ™\H˜YÙH\Ü^Z[™ÈXÚÙ\ˆY[YšY\ˆ
+K™Ë‹ÔPT
+K\\˜Ø\ÙKX™[\ÛX˜XÚÙÜ›İ[™ÑŒŒÑX^ÌLÌMÌŒ˜›Ü™\‹\˜Y]\ÈY[™Èœœ‚‚ˆÈÈÈ\™›Ü›X[˜ÙHÚ\È	ˆ[H˜YÙ\Â‹H
+Š[\Ú˜YÙJŠˆ^ÌNNX˜XÚÙÜ›İ[™ÑM‘QŒ˜Y[™È›Ü™\‹\˜Y]\Èˆ™Yš^YÚ]
+ØÚYÛ‹‚‹H
+Š™X\š\Ú˜YÙJŠˆ^ÑŒŒÍX˜XÚÙÜ›İ[™Ñ‘P‘QY[™È›Ü™\‹\˜Y]\Èˆ™Yš^YÚ]XÚYÛ‹‚‹H
+Š”\™›Ü›X[˜ÙH˜\ˆ˜XÚÙ\ŠŠˆYÚÙYÛY[Y˜XÚÈ[ˆØ\™ÎÈ[˜Xİ]™Hš[ÑLLÑP˜Xİ]™HØZ[ˆ˜\ˆÌNNXXİ]™H›Ü˜\ˆÑŒŒÍX‚‚ˆÈÈÈ˜]šYØ][ÛˆÙYÛY[Y[Â‹H
+ŠØ\İ[HÛÛZ[™\ŠŠˆ[˜ÛÜÚ[™È›Ü™\ˆ\ÛÛYÑLLÑP˜Y[™È›Ü™\‹\˜Y]\ÈNNN\\Ü^H[›[™KY›^Ø\‚‹H
+ŠXİ]™HXŠŠˆ˜XÚÙÜ›İ[™ÌLÌMÌŒ˜^Ñ‘‘‘‘‘˜›ÛX™[[Y›Ü™\‹\˜Y]\ÈNNN\Y[™ÈœM‚‹H
+Š’[˜Xİ]™HXŠŠˆ˜XÚÙÜ›İ[™˜[œÜ\™[^ÍÎĞ˜İ™\ˆ^ÌLÌMÌŒ˜Y[™ÈœM‚‚ˆÈÈÈXİ[Ûˆ]ÛœÂ‹H
+Š”š[X\H]ÛŠŠˆÛÛYÌLÌMÌŒ˜ÜˆÌMŒ‘‘˜^Ñ‘‘‘‘‘˜›Ü™\‹\˜Y]\ÈNNN\
+Üˆ›Üˆ]H[™[ÊKY[™ÈN›ÛX™[[Y›Ûˆİ™\ˆÜXÚ]HL˜‚‹H
+Š”İXHÈÙXÛÛ™\H]ÛŠŠˆÚ]H˜XÚÙÜ›İ[™\›Ü™\ˆÑLLÑP˜^ÌLÌMÌŒ˜ˆİ™\ˆ›Ü™\ˆÌLÌMÌŒ˜‚‚ˆÈÈÈ[œÙH]HX›\Â‹H
+Š’XY\ŠŠˆZYÚÍœ\ÙÜ˜\HX™[\ÛX\\˜Ø\ÙKÛÛÜˆÍÎĞ˜›Ü™\‹X›İÛH\ÛÛYÑLLÑP˜ˆYX[YÛˆŞ[X›Û]\ËšYÚX[YÛˆšXÙ\È[™\˜Ù[[\Ë‚‹H
+Š”›İÜÊŠˆZYÚ[\›˜][™Èİ™\ˆ˜XÚÙÜ›İ[™ÑQ‘›Ü™\‹X›İÛH\ÛÛYÑLLÑP˜ˆ[Y\šXÜÈÙ]Ú]]K[Y]šXØ\Ú[™ÈX[\ˆšYİ\™\Ë

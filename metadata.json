@@ -1,0 +1,6 @@
+{
+  "name": "ParkSG Terminal - Singapore Real-Time Carpark Tracker",
+  "description": "High-precision Singapore carpark lot availability tracker with real-time lot counters, interactive map, parking fee calculator, and LTA/HDB integration specs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
