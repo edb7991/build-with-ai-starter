@@ -1,0 +1,6 @@
+{
+  "name": "Apex Market Terminal",
+  "description": "TradingView-style stock market terminal with real-time screeners, S&P 500 heatmap, sector analytics, interactive candlestick charts, and technical ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
