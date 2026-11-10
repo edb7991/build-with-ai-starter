@@ -30,7 +30,7 @@ export const BackendIntegrationModal: React.FC<BackendIntegrationModalProps> = (
 }) => {
   const [copiedSection, setCopiedSection] = useState<string | null>(null);
   const [testUrl, setTestUrl] = useState<string>(
-    customApiUrl || 'https://api.data.gov.sg/v1/transport/carpark-availability'
+    customApiUrl || '/api/carparkavailability'
   );
   const [testStatus, setTestStatus] = useState<'idle' | 'testing' | 'success' | 'error'>('idle');
   const [testResponse, setTestResponse] = useState<string>('');
